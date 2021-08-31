@@ -4,35 +4,33 @@ I am a beginner front-end developer looking for new interesting tasks for my por
 ## What can I do?
 Every day I use:
 
-1.  JavaScript: 
-  
-    1.  ReactJS
-    1.  Redux
-    1.  Redux-Saga
-    1.  ReactJSS
-    1.  Styled-components.
+| Languages     | Tech              
+| ------------- |:------------------------------------------------------------:|
+| JavaScript    | ReactJS, Redux,  Redux-Saga,  ReactJSS,  Styled-components   | 
+| C ++          | FFmpeg,  QT framework                                        |
+| C             | lwIP                                                         |
 
-1.  C ++:
 
-    1.  FFmpeg
-    1.  QT framework.
+### About me
 
-1.  C: 
-    1.  lwIP
+**Q: What language can I program in?**
 
-## What language can I program in?
-C, C ++, JavaScript, TypeScript.
+**A:** C, C ++, JavaScript, TypeScript
 
-## What am I learning now?
-C ++: FFmpeg, QT framework
+**Q: What am I learning now?**
 
-JavaScript: Mocha, Jest, Webpack, Electron.
+**A:** 
+| Languages     | Tech              
+| ------------- |:------------------------------------------------------------:|
+| JavaScript    | Mocha, Jest, Webpack, Electron                               | 
+| C ++          | FFmpeg,  QT framework                                        |
 
-## What would I like to know in the future?
+**Q: What would I like to know in the future?**
 
-JavaScript: WASM, N-API, Node, ExpressJS
+**A:** JavaScript: WASM, N-API, Node, ExpressJS
 
-## What task am I doing now?
-Application based on QT framework and FFmpeg with ElectronJS and ReactJS in the front.
+**Q: What task am I doing now?**
 
-Sorry for my bad english :)
+**A:** Application based on QT framework and FFmpeg with ElectronJS and ReactJS in the front.
+
+*Sorry for my bad english :)*
