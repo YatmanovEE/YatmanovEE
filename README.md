@@ -29,8 +29,5 @@ Every day I use:
 
 **A:** JavaScript: WASM, N-API, Node, ExpressJS
 
-**Q: What task am I doing now?**
-
-**A:** Application based on QT framework and FFmpeg with ElectronJS and ReactJS in the front.
 
 *Sorry for my bad english :)*
